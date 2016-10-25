@@ -2,4 +2,4 @@
 new repository
 
 
-Hello, my name is logan. I am new to all programming and just trying to get a basic feel for it.
+Hello, my name is logan. I am new to all programming and trying to learn new languages to further my education.
